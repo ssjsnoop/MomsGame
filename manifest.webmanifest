@@ -1,0 +1,15 @@
+{
+  "name": "Mom's Game — Beverly's Lincoln City Life",
+  "short_name": "Mom's Game",
+  "description": "Beverly's Lincoln City life: casino, funeral home, house upgrades, and a strange road to Newport.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#161d35",
+  "theme_color": "#161d35",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
